@@ -1,0 +1,5 @@
+[package]
+name = "decayfmt"
+version = "0.1.0"
+edition = "2021"
+description = "decayfmt: a Rust file format where every open permanently corrupts the file. Decay is a first-class property with no recovery without a backup."
