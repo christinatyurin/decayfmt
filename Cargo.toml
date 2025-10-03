@@ -5,3 +5,4 @@ edition = "2021"
 description = "decayfmt: a Rust file format where every open permanently corrupts the file. Decay is a first-class property with no recovery without a backup."
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# match the style used in the rest of the module
