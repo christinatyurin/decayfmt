@@ -12,3 +12,4 @@ description = "decayfmt: a Rust file format where every open permanently corrupt
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
