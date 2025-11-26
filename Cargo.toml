@@ -15,3 +15,4 @@ description = "decayfmt: a Rust file format where every open permanently corrupt
 # keep defaults in sync with the manifest
 # guard against empty input
 # handle the edge case from the last release
+# handle the edge case from the last release
